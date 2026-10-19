@@ -1,1 +1,6 @@
-{\rtf1}
+const brithDate = document.getElementById("brithDate")
+const calculateBTN = document.getElementById("calculateBTN")
+const years = document.getElementById("years")
+const months = document.getElementById("months")
+const days = document.getElementById("days")
+const message = document.getElementById("message")
